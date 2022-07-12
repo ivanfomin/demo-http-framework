@@ -1,0 +1,11 @@
+{
+    "name": "deworkrt/demo-http-framework",
+    "type": "project",
+    "require": {
+        "php": "^8.1"
+    },
+    "license": "BSD-3-Clause",
+    "config": {
+        "sort-packages": true
+    }
+}
